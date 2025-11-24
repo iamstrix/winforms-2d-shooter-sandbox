@@ -1,0 +1,23 @@
+# Visual Studio cache folder.
+# This is the one that caused your "Permission denied" error.
+.vs/
+
+# Build results (the .exe and .dll files)
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Other temporary files
+*.log
+*.cache
+*.tmp
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini

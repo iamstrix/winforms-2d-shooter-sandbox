@@ -1,4 +1,4 @@
-Discontinued 2D shooter with sandbox tools to apply OOP concepts.
+## Discontinued 2D shooter with sandbox tools to apply OOP concepts.
 
 C#, WinForms, Visual Studio
 

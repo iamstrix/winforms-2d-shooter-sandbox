@@ -48,3 +48,10 @@ Feature I did not bother fixing:
 <img width="237" height="326" alt="image" src="https://github.com/user-attachments/assets/75074104-5e5b-4d83-9e15-39452e966a89" />
 
 - Old manual bullet trajectory adjuster, before I programmed my own click-to-shoot trajectory calculation
+
+# Run Without Visual Studio
+1. Open Terminal
+2. Clone repository to a specified file path
+3. cd into file path with the solution file *.\shooter\winforms-2d-shooter\RogueLike1*
+4. run dotnet restore
+5. run dotnet run

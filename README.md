@@ -1,18 +1,16 @@
 # Discontinued 2D shooter with sandbox tools to apply OOP concepts.
 
-C#, WinForms, Visual Studio
+C#, .NET, WinForms, Visual Studio
 
 Throughout development, I realized that WinForms only uses integers for component coordinates, leading to floor division when calculating bullet trajectory, which ultimately ruined the whole thing. Programming the bullet trajectory calculation by myself was the aspect I had the most fun with during this project. The caveat for the trajectory calculation, though is that bullet velocity scales depending on how far the target is from the player, as I could not perform vector normalization given the limitation of WinForms' strict integer data type usage. 
 
 <img width="1872" height="950" alt="Screenshot 2025-12-18 033639" src="https://github.com/user-attachments/assets/cf13696f-4fc4-405b-b87d-3886a274d4aa" />
-- player shooting bullets, with enemies on screen
 
+*player shooting bullets, with enemies on screen*
 
 <img width="1868" height="951" alt="Screenshot 2025-12-18 033900" src="https://github.com/user-attachments/assets/c7ecd3b6-a17a-49c0-b369-f288d49fcbff" />
-- player alongside all enemies displayed
 
-
-
+*player alongside all enemies displayed*
 
 Player features: 
 - Shoot bullets, click anywhere

@@ -7,8 +7,10 @@ Throughout development, I realized that WinForms only uses integers for componen
 <img width="1872" height="950" alt="Screenshot 2025-12-18 033639" src="https://github.com/user-attachments/assets/cf13696f-4fc4-405b-b87d-3886a274d4aa" />
 player shooting bullets, with enemies on screen
 
+
 <img width="1868" height="951" alt="Screenshot 2025-12-18 033900" src="https://github.com/user-attachments/assets/c7ecd3b6-a17a-49c0-b369-f288d49fcbff" />
 player alongside all enemies displayed
+
 
 Player features: 
 - Shoot bullets, click anywhere

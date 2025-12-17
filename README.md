@@ -12,6 +12,8 @@ Throughout development, I realized that WinForms only uses integers for componen
 - player alongside all enemies displayed
 
 
+
+
 Player features: 
 - Shoot bullets, click anywhere
 

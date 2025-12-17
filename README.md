@@ -40,5 +40,6 @@ Statistics display (upper left and right-most side):
 - Bullet trajectory history at the right-most side - shows actual bullet trajectory values
 
 Feature I did not bother fixing:
+
 <img width="237" height="326" alt="image" src="https://github.com/user-attachments/assets/75074104-5e5b-4d83-9e15-39452e966a89" />
 - Old manual bullet trajectory adjuster, before I programmed my own click-to-shoot trajectory calculation
